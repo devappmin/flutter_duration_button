@@ -1,6 +1,6 @@
 # Flutter Duration Button
 
-Flutter Duration Button is auto-clicked button likes Netflix's Skip Intro button.
+Duration Button is auto-clicked button likes Netflix's Skip Intro button.
 
 It provides normal duration button called `DurationButton`, icon based button called `IconDurationButton`, text based button called `TextDurationButton` and outlined button called `TextDurationButton`.
 
@@ -12,7 +12,7 @@ It provides normal duration button called `DurationButton`, icon based button ca
 ### Depend on it.
 
 ```terminal
-$ flutter pub add flutter_duration_button
+$ flutter pub add duration_button
 ```
 
 **or**
@@ -21,7 +21,7 @@ Add below line to your personal package's `pubspec.yaml`.
 
 ```yaml
 dependencies:
-  flutter_duration_button: ^1.0.0
+  duration_button: ^1.0.0
 ```
 
 And run `flutter pub get` to install.
@@ -29,7 +29,7 @@ And run `flutter pub get` to install.
 ### Import it.
 
 ```dart
-import 'package:flutter_duration_button/flutter_duration_button.dart';
+import 'package:duration_button/duration_button.dart';
 ```
 
 ### Use widget.
