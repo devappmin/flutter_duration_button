@@ -60,7 +60,7 @@ TextDurationButton(/* Props here.. */)
 | splashFactory   | `InteractiveInkFeatureFactory?` | `null`                                 | The splashFactory value of the button.                                                                                                        |
 | border          | `Border?`                       | `null`                                 | The border value of the button                                                                                                                |
 
-You can find other widget's `Props` from [Documentation](https://pub.dev).
+You can find other widget's `Props` from [Documentation](https://pub.dev/documentation/duration_button/latest/).
 
 ## Example
 
