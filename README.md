@@ -1,8 +1,8 @@
 # Flutter Duration Button
 
-Duration Button is auto-clicked button likes Netflix's Skip Intro button.
+`flutter_duration_button` is an auto-clicked button like Netflix's Skip Intro button.
 
-It provides normal duration button called `DurationButton`, icon based button called `IconDurationButton`, text based button called `TextDurationButton` and outlined button called `TextDurationButton`.
+It provides a normal duration button called `DurationButton`, icon-based button called `IconDurationButton`, text-based button called `TextDurationButton`, and outlined button called `TextDurationButton`.
 
 ![Simulator Screen Recording - iPhone 13 - 2022-01-24 at 23 12 17](https://user-images.githubusercontent.com/4322099/150799431-71711e42-07d7-423d-b6bf-04d83e9dc97c.gif)
 
@@ -60,7 +60,7 @@ TextDurationButton(/* Props here.. */)
 | splashFactory   | `InteractiveInkFeatureFactory?` | `null`                                 | The splashFactory value of the button.                                                                                                        |
 | border          | `Border?`                       | `null`                                 | The border value of the button                                                                                                                |
 
-You can find other widget's `Props` from [Documentation](https://pub.dev/documentation/duration_button/latest/).
+You can figure out other widgets `Props` from [Documentation](https://pub.dev/documentation/duration_button/latest/).
 
 ## Example
 
